@@ -1,0 +1,25 @@
+.body {
+    background-color: #5b5b5f;
+}
+
+.logo {
+    padding-top: 50px;
+    text-align: center;
+}
+
+.imagem_logo {
+    width: 100px;
+    
+}
+
+.menu-faq {
+    width: 80%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.titulo {
+    color: #FFFFFF;
+    padding: 30px;
+}
